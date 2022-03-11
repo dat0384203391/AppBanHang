@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/LTAndroid/AppBanHangDemo/app/src/main/res/drawable/boder.xml" value="0.1" />
+        <entry key="..\:/LTAndroid/AppBanHangDemo/app/src/main/res/drawable/button.xml" value="0.23" />
+        <entry key="..\:/LTAndroid/AppBanHangDemo/app/src/main/res/drawable/spinner.xml" value="0.1" />
+        <entry key="..\:/LTAndroid/AppBanHangDemo/app/src/main/res/layout/activity_chi_tiet_san_pham.xml" value="0.25" />
+        <entry key="..\:/LTAndroid/AppBanHangDemo/app/src/main/res/layout/activity_dien_thoai.xml" value="0.12407407407407407" />
+        <entry key="..\:/LTAndroid/AppBanHangDemo/app/src/main/res/layout/activity_gio_hang.xml" value="0.15092592592592594" />
+        <entry key="..\:/LTAndroid/AppBanHangDemo/app/src/main/res/layout/activity_lap_top.xml" value="0.1" />
+        <entry key="..\:/LTAndroid/AppBanHangDemo/app/src/main/res/layout/activity_lien_he.xml" value="0.1" />
+        <entry key="..\:/LTAndroid/AppBanHangDemo/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/LTAndroid/AppBanHangDemo/app/src/main/res/layout/activity_thong_tin.xml" value="0.21311475409836064" />
+        <entry key="..\:/LTAndroid/AppBanHangDemo/app/src/main/res/layout/activity_thong_tin_khach_hang.xml" value="0.1" />
+        <entry key="..\:/LTAndroid/AppBanHangDemo/app/src/main/res/layout/dong_dienthoai.xml" value="0.128" />
+        <entry key="..\:/LTAndroid/AppBanHangDemo/app/src/main/res/layout/dong_giohang.xml" value="0.2064814814814815" />
+        <entry key="..\:/LTAndroid/AppBanHangDemo/app/src/main/res/layout/dong_laptop.xml" value="0.1" />
+        <entry key="..\:/LTAndroid/AppBanHangDemo/app/src/main/res/layout/dong_listview_loaisp.xml" value="0.2361111111111111" />
+        <entry key="..\:/LTAndroid/AppBanHangDemo/app/src/main/res/layout/dong_sanphammoinhat.xml" value="0.2" />
+        <entry key="..\:/LTAndroid/AppBanHangDemo/app/src/main/res/layout/progressbar.xml" value="0.136" />
+        <entry key="..\:/LTAndroid/AppBanHangDemo/app/src/main/res/menu/menu.xml" value="0.1" />
+        <entry key="..\:/LTAndroid/AppBanHangDemo/app/src/main/res/menu/menu_giohang.xml" value="0.24615384615384617" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

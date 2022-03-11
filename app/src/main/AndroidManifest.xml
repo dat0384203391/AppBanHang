@@ -12,7 +12,9 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.AppBanHangDemo">
-
+        <activity
+            android:name=".activity.ThongTinActivity"
+            android:exported="false" />
         <!--
              TODO: Before you run your application, you need a Google Maps API key.
 
@@ -28,10 +30,6 @@
             android:name="com.google.android.geo.API_KEY"
             android:value="YOUR_API_KEY" />
 
-        <activity
-            android:name=".activity.ThongTinActivity"
-            android:exported="false"
-            android:label="@string/title_activity_thong_tin" />
         <activity
             android:name=".activity.ThongTinKhachHangActivity"
             android:exported="false" />
